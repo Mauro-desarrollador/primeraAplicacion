@@ -1,0 +1,15 @@
+C:\Users\Mauro\source\repos\primeraAplicacion\bin\Debug\net6.0\primeraAplicacion.exe
+C:\Users\Mauro\source\repos\primeraAplicacion\bin\Debug\net6.0\primeraAplicacion.deps.json
+C:\Users\Mauro\source\repos\primeraAplicacion\bin\Debug\net6.0\primeraAplicacion.runtimeconfig.json
+C:\Users\Mauro\source\repos\primeraAplicacion\bin\Debug\net6.0\primeraAplicacion.dll
+C:\Users\Mauro\source\repos\primeraAplicacion\bin\Debug\net6.0\primeraAplicacion.pdb
+C:\Users\Mauro\source\repos\primeraAplicacion\obj\Debug\net6.0\primeraAplicacion.csproj.AssemblyReference.cache
+C:\Users\Mauro\source\repos\primeraAplicacion\obj\Debug\net6.0\primeraAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauro\source\repos\primeraAplicacion\obj\Debug\net6.0\primeraAplicacion.AssemblyInfoInputs.cache
+C:\Users\Mauro\source\repos\primeraAplicacion\obj\Debug\net6.0\primeraAplicacion.AssemblyInfo.cs
+C:\Users\Mauro\source\repos\primeraAplicacion\obj\Debug\net6.0\primeraAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\Mauro\source\repos\primeraAplicacion\obj\Debug\net6.0\primeraAplicacion.dll
+C:\Users\Mauro\source\repos\primeraAplicacion\obj\Debug\net6.0\refint\primeraAplicacion.dll
+C:\Users\Mauro\source\repos\primeraAplicacion\obj\Debug\net6.0\primeraAplicacion.pdb
+C:\Users\Mauro\source\repos\primeraAplicacion\obj\Debug\net6.0\primeraAplicacion.genruntimeconfig.cache
+C:\Users\Mauro\source\repos\primeraAplicacion\obj\Debug\net6.0\ref\primeraAplicacion.dll
